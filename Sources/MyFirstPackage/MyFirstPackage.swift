@@ -4,3 +4,7 @@ public struct MyFirstPackage {
     public init() {
     }
 }
+
+public func foo() {
+    print("foo")
+}
