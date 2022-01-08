@@ -7,4 +7,5 @@ public struct MyFirstPackage {
 
 public func foo() {
     print("foo")
+    print()
 }
